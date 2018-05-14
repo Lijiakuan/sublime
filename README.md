@@ -8,4 +8,6 @@ git add -A  #将要保存的文件添加
 
 git commit -m"myfirst cmmit"  #添加注释信息
 
+git remote add origin https://github.com/Lijiakuan/sublime.git   #添加到分支名
+
 git push -u origin master   #上传到github 
