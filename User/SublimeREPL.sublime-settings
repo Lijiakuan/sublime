@@ -1,0 +1,7 @@
+{
+    "default_extend_env": {"PATH": "{PATH};D:\\R\\R-3.5.0\\bin\\x64"},
+    "show_transferred_text": true,
+    // "encoding": "gbk",
+}
+
+

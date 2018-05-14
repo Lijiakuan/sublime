@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/User/Big Duo (SublimePythonIDE).tmTheme",
+	"font_size": 11.0,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"mdpopups.sublime_user_lang_map":
+	{
+	},
+	"mdpopups.use_sublime_highlighter": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"update_check": false,
+	"word_wrap": "auto"
+}

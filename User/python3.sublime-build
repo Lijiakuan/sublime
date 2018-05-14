@@ -1,0 +1,5 @@
+{
+ "cmd": ["C:/Users/kg/AppData/Local/Programs/Python/Python35-32/python3", "-u", "$file"],
+ "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+ "selector": "source.python" 
+ }

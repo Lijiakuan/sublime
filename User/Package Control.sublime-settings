@@ -1,0 +1,54 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"channels":
+	[
+		"D:\\R\\channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"ColorPicker",
+		"Compare Side-By-Side",
+		"ConvertToUTF8",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"IMESupport",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"ModernPerl",
+		"Nil-Theme",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PlainTasks",
+		"PyV8",
+		"R-Box",
+		"SendCode",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimePythonIDE",
+		"SublimeREPL",
+		"SublimeTmpl",
+		"Terminal",
+		"Theme - Soda",
+		"WordCount",
+		"ZZZ"
+	]
+}
